@@ -11,9 +11,15 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>MyLabNote</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>MyLabNote</h1>
+        <hr />
+        <a href=''>Home</a> |
+        <a href='UserController'>Users</a> |
+        <a href='EntryController'>Entries</a>
+        <hr />
+        Welcome to MyLabNote!
     </body>
 </html>
